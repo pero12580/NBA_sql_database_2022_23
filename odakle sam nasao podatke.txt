@@ -1,0 +1,9 @@
+za box score za svakog igraca u svakoj utakmici : https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores?resource=download&select=PlayerStatistics.csv
+
+za popis svih tekmi iz regular seasona : https://www.basketball-reference.com/leagues/NBA_2023_games-{mjeseci od october do april}.html
+
+za popis igraca i njigove statistike u sezoni : https://www.kaggle.com/datasets/bryanchungweather/nba-players-data-2022-2023
+
+za popis timova : googlo sam popis i sam napravio nba_teams.csv
+
+za team_season : https://www.basketball-reference.com/leagues/NBA_2023_standings.html

@@ -1,0 +1,616 @@
+firstName,lastName,personId,playerteamCity,playerteamName
+Mike,Conley,201144,Minnesota,Timberwolves
+Gorgui,Dieng,203476,San Antonio,Spurs
+Rudy,Gobert,203497,Minnesota,Timberwolves
+Doug,McDermott,203926,San Antonio,Spurs
+Kyle,Anderson,203937,Minnesota,Timberwolves
+Karl-Anthony,Towns,1626157,Minnesota,Timberwolves
+Taurean,Prince,1627752,Minnesota,Timberwolves
+Zach,Collins,1628380,San Antonio,Spurs
+Keita,Bates-Diop,1628966,San Antonio,Spurs
+Jordan,McLaughlin,1629162,Minnesota,Timberwolves
+Nickeil,Alexander-Walker,1629638,Minnesota,Timberwolves
+Keldon,Johnson,1629640,San Antonio,Spurs
+Romeo,Langford,1629641,San Antonio,Spurs
+Anthony,Edwards,1630162,Minnesota,Timberwolves
+Jaden,McDaniels,1630183,Minnesota,Timberwolves
+Tre,Jones,1630200,San Antonio,Spurs
+Nathan,Knight,1630233,Minnesota,Timberwolves
+Matt,Ryan,1630346,Minnesota,Timberwolves
+Luka,Garza,1630568,Minnesota,Timberwolves
+Sandro,Mamukelashvili,1630572,San Antonio,Spurs
+Julian,Champagnie,1630577,San Antonio,Spurs
+Malaki,Branham,1631103,San Antonio,Spurs
+Blake,Wesley,1631104,San Antonio,Spurs
+Wendell,Moore Jr.,1631111,Minnesota,Timberwolves
+Josh,Minott,1631169,Minnesota,Timberwolves
+Dominick,Barlow,1631230,San Antonio,Spurs
+Russell,Westbrook,201566,Los Angeles,Clippers
+Eric,Gordon,201569,Los Angeles,Clippers
+Nicolas,Batum,201587,Los Angeles,Clippers
+Kawhi,Leonard,202695,Los Angeles,Clippers
+Mason,Plumlee,203486,Los Angeles,Clippers
+Robert,Covington,203496,Los Angeles,Clippers
+Norman,Powell,1626181,Los Angeles,Clippers
+Ivica,Zubac,1627826,Los Angeles,Clippers
+Shaquille,Harrison,1627885,Portland,Trail Blazers
+Kevin,Knox II,1628995,Portland,Trail Blazers
+Drew,Eubanks,1629234,Portland,Trail Blazers
+Amir,Coffey,1629599,Los Angeles,Clippers
+Terance,Mann,1629611,Los Angeles,Clippers
+Cam,Reddish,1629629,Portland,Trail Blazers
+Xavier,Moon,1629875,Los Angeles,Clippers
+Skylar,Mays,1630219,Portland,Trail Blazers
+Brandon,Boston Jr.,1630527,Los Angeles,Clippers
+Bones,Hyland,1630538,Los Angeles,Clippers
+Jason,Preston,1630554,Los Angeles,Clippers
+Trendon,Watford,1630570,Portland,Trail Blazers
+Shaedon,Sharpe,1631101,Portland,Trail Blazers
+Jabari,Walker,1631133,Portland,Trail Blazers
+Moussa,Diabate,1631217,Los Angeles,Clippers
+John,Butler Jr.,1631219,Portland,Trail Blazers
+Justin,Minaya,1631303,Portland,Trail Blazers
+Nate,Williams,1631466,Portland,Trail Blazers
+Jeff,Green,201145,Denver,Nuggets
+DeAndre,Jordan,201599,Denver,Nuggets
+Ish,Smith,202397,Denver,Nuggets
+Reggie,Jackson,202704,Denver,Nuggets
+Kentavious,Caldwell-Pope,203484,Denver,Nuggets
+Aaron,Gordon,203932,Denver,Nuggets
+Nikola,Jokic,203999,Denver,Nuggets
+Kris,Dunn,1627739,Utah,Jazz
+Damian,Jones,1627745,Utah,Jazz
+Jamal,Murray,1627750,Denver,Nuggets
+Thomas,Bryant,1628418,Denver,Nuggets
+Vlatko,Cancar,1628427,Denver,Nuggets
+Udoka,Azubuike,1628962,Utah,Jazz
+Michael,Porter Jr.,1629008,Denver,Nuggets
+Collin,Sexton,1629012,Utah,Jazz
+Juan,Toscano-Anderson,1629308,Utah,Jazz
+Talen,Horton-Tucker,1629659,Utah,Jazz
+Luka,Samanic,1629677,Utah,Jazz
+Zeke,Nnaji,1630192,Denver,Nuggets
+Ochai,Agbaji,1630534,Utah,Jazz
+Johnny,Juzang,1630548,Utah,Jazz
+Micah,Potter,1630695,Utah,Jazz
+Christian,Braun,1631128,Denver,Nuggets
+Peyton,Watson,1631212,Denver,Nuggets
+Jack,White,1631298,Denver,Nuggets
+Simone,Fontecchio,1631323,Utah,Jazz
+LeBron,James,2544,Los Angeles,Lakers
+Bismack,Biyombo,202687,Phoenix,Suns
+Anthony,Davis,203076,Los Angeles,Lakers
+Terrence,Ross,203082,Phoenix,Suns
+Dennis,Schroder,203471,Los Angeles,Lakers
+D'Angelo,Russell,1626156,Los Angeles,Lakers
+Cameron,Payne,1626166,Phoenix,Suns
+Malik,Beasley,1627736,Los Angeles,Lakers
+Damion,Lee,1627814,Phoenix,Suns
+Davon,Reed,1628432,Los Angeles,Lakers
+Torrey,Craig,1628470,Phoenix,Suns
+Mo,Bamba,1628964,Los Angeles,Lakers
+Troy,Brown Jr.,1628972,Los Angeles,Lakers
+Josh,Okogie,1629006,Phoenix,Suns
+Landry,Shamet,1629013,Phoenix,Suns
+Jarred,Vanderbilt,1629020,Los Angeles,Lakers
+Lonnie,Walker IV,1629022,Los Angeles,Lakers
+Rui,Hachimura,1629060,Los Angeles,Lakers
+Jock,Landale,1629111,Phoenix,Suns
+Wenyen,Gabriel,1629117,Los Angeles,Lakers
+Darius,Bazley,1629647,Phoenix,Suns
+Saben,Lee,1630240,Phoenix,Suns
+Austin,Reaves,1630559,Los Angeles,Lakers
+Ish,Wainright,1630688,Phoenix,Suns
+Max,Christie,1631108,Los Angeles,Lakers
+Stephen,Curry,201939,Golden State,Warriors
+Klay,Thompson,202691,Golden State,Warriors
+Harrison,Barnes,203084,Sacramento,Kings
+Draymond,Green,203110,Golden State,Warriors
+JaMychal,Green,203210,Golden State,Warriors
+Alex,Len,203458,Sacramento,Kings
+Richaun,Holmes,1626158,Sacramento,Kings
+Trey,Lyles,1626168,Sacramento,Kings
+Kevon,Looney,1626172,Golden State,Warriors
+Gary,Payton II,1627780,Golden State,Warriors
+Malik,Monk,1628370,Sacramento,Kings
+PJ,Dozier,1628408,Sacramento,Kings
+Donte,DiVincenzo,1628978,Golden State,Warriors
+Chimezie,Metu,1629002,Sacramento,Kings
+Terence,Davis,1629056,Sacramento,Kings
+Jordan,Poole,1629673,Golden State,Warriors
+Neemias,Queta,1629674,Sacramento,Kings
+Jonathan,Kuminga,1630228,Golden State,Warriors
+Anthony,Lamb,1630237,Golden State,Warriors
+Moses,Moody,1630541,Golden State,Warriors
+Kessler,Edwards,1630556,Sacramento,Kings
+Davion,Mitchell,1630558,Sacramento,Kings
+Keegan,Murray,1631099,Sacramento,Kings
+Patrick,Baldwin Jr.,1631116,Golden State,Warriors
+Keon,Ellis,1631165,Sacramento,Kings
+Lester,Quinones,1631311,Golden State,Warriors
+JaVale,McGee,201580,Dallas,Mavericks
+Markieff,Morris,202693,Dallas,Mavericks
+Nikola,Vucevic,202696,Chicago,Bulls
+Davis,Bertans,202722,Dallas,Mavericks
+Andre,Drummond,203083,Chicago,Bulls
+Justin,Holiday,203200,Dallas,Mavericks
+Reggie,Bullock,203493,Dallas,Mavericks
+Dwight,Powell,203939,Dallas,Mavericks
+Derrick,Jones Jr.,1627884,Chicago,Bulls
+Alex,Caruso,1627936,Chicago,Bulls
+Frank,Ntilikina,1628373,Dallas,Mavericks
+Luka,Doncic,1629029,Dallas,Mavericks
+Theo,Pinson,1629033,Dallas,Mavericks
+Coby,White,1629632,Chicago,Bulls
+Javonte,Green,1629750,Chicago,Bulls
+Patrick,Williams,1630172,Chicago,Bulls
+Ayo,Dosunmu,1630245,Chicago,Bulls
+Marko,Simonovic,1630250,Chicago,Bulls
+McKinley,Wright IV,1630593,Dallas,Mavericks
+Carlik,Jones,1630637,Chicago,Bulls
+A.J.,Lawson,1630639,Dallas,Mavericks
+Terry,Taylor,1630678,Chicago,Bulls
+Jaden,Hardy,1630702,Dallas,Mavericks
+Dalen,Terry,1631207,Chicago,Bulls
+Goran,Dragic,201609,Milwaukee,Bucks
+Wesley,Matthews,202083,Milwaukee,Bucks
+Meyers,Leonard,203086,Milwaukee,Bucks
+Jae,Crowder,203109,Milwaukee,Bucks
+Thanasis,Antetokounmpo,203648,Milwaukee,Bucks
+Joe,Ingles,204060,Milwaukee,Bucks
+Tyus,Jones,1626145,Memphis,Grizzlies
+Bobby,Portis,1626171,Milwaukee,Bucks
+Luke,Kennard,1628379,Memphis,Grizzlies
+Dillon,Brooks,1628415,Memphis,Grizzlies
+Jevon,Carter,1628975,Milwaukee,Bucks
+Jaren,Jackson Jr.,1628991,Memphis,Grizzlies
+Lindell,Wigginton,1629623,Milwaukee,Bucks
+Ja,Morant,1629630,Memphis,Grizzlies
+John,Konchar,1629723,Memphis,Grizzlies
+Xavier,Tillman,1630214,Memphis,Grizzlies
+Desmond,Bane,1630217,Memphis,Grizzlies
+MarJon,Beauchamp,1630699,Milwaukee,Bucks
+Kennedy,Chandler,1631113,Memphis,Grizzlies
+David,Roddy,1631223,Memphis,Grizzlies
+Vince,Williams Jr.,1631246,Memphis,Grizzlies
+Kenneth,Lofton Jr.,1631254,Memphis,Grizzlies
+AJ,Green,1631260,Milwaukee,Bucks
+Derrick,Rose,201565,New York,Knicks
+Garrett,Temple,202066,New Orleans,Pelicans
+Jonas,Valanciunas,202685,New Orleans,Pelicans
+Evan,Fournier,203095,New York,Knicks
+CJ,McCollum,203468,New Orleans,Pelicans
+Willy,Hernangomez,1626195,New Orleans,Pelicans
+Josh,Richardson,1626196,New Orleans,Pelicans
+Larry,Nance Jr.,1626204,New Orleans,Pelicans
+Brandon,Ingram,1627742,New Orleans,Pelicans
+Isaiah,Hartenstein,1628392,New York,Knicks
+Josh,Hart,1628404,New York,Knicks
+Mitchell,Robinson,1629011,New York,Knicks
+RJ,Barrett,1629628,New York,Knicks
+Jaxson,Hayes,1629637,New Orleans,Pelicans
+Quentin,Grimes,1629656,New York,Knicks
+Obi,Toppin,1630167,New York,Knicks
+Kira,Lewis Jr.,1630184,New Orleans,Pelicans
+Immanuel,Quickley,1630193,New York,Knicks
+Naji,Marshall,1630230,New Orleans,Pelicans
+Herbert,Jones,1630529,New Orleans,Pelicans
+Trey,Murphy III,1630530,New Orleans,Pelicans
+Miles,McBride,1630540,New York,Knicks
+Jericho,Sims,1630579,New York,Knicks
+Dyson,Daniels,1630700,New Orleans,Pelicans
+Trevor,Keels,1631211,New York,Knicks
+Dewayne,Dedmon,203473,Philadelphia,76ers
+Clint,Capela,203991,Atlanta,Hawks
+Bogdan,Bogdanovic,203992,Atlanta,Hawks
+Montrezl,Harrell,1626149,Philadelphia,76ers
+Dejounte,Murray,1627749,Atlanta,Hawks
+Georges,Niang,1627777,Philadelphia,76ers
+Furkan,Korkmaz,1627788,Philadelphia,76ers
+Danuel,House Jr.,1627863,Philadelphia,76ers
+John,Collins,1628381,Atlanta,Hawks
+Bruno,Fernando,1628981,Atlanta,Hawks
+Aaron,Holiday,1628988,Atlanta,Hawks
+Shake,Milton,1629003,Philadelphia,76ers
+Trae,Young,1629027,Atlanta,Hawks
+De'Andre,Hunter,1629631,Atlanta,Hawks
+Louis,King,1629663,Philadelphia,76ers
+Jalen,McDaniels,1629667,Philadelphia,76ers
+Garrison,Mathews,1629726,Atlanta,Hawks
+Onyeka,Okongwu,1630168,Atlanta,Hawks
+Saddiq,Bey,1630180,Atlanta,Hawks
+Paul,Reed,1630194,Philadelphia,76ers
+Vit,Krejci,1630249,Atlanta,Hawks
+Jaden,Springer,1630531,Philadelphia,76ers
+Jalen,Johnson,1630552,Atlanta,Hawks
+Mac,McClung,1630644,Philadelphia,76ers
+AJ,Griffin,1631100,Atlanta,Hawks
+Tyrese,Martin,1631213,Atlanta,Hawks
+Al,Horford,201143,Boston,Celtics
+Thaddeus,Young,201152,Toronto,Raptors
+Blake,Griffin,201933,Boston,Celtics
+Will,Barton,203115,Toronto,Raptors
+Mike,Muscala,203488,Boston,Celtics
+Jakob,Poeltl,1627751,Toronto,Raptors
+Pascal,Siakam,1627783,Toronto,Raptors
+Fred,VanVleet,1627832,Toronto,Raptors
+Jayson,Tatum,1628369,Boston,Celtics
+OG,Anunoby,1628384,Toronto,Raptors
+Derrick,White,1628401,Boston,Celtics
+Luke,Kornet,1628436,Boston,Celtics
+Chris,Boucher,1628449,Toronto,Raptors
+Gary,Trent Jr.,1629018,Toronto,Raptors
+Robert,Williams III,1629057,Boston,Celtics
+Mfiondu,Kabengele,1629662,Boston,Celtics
+Grant,Williams,1629684,Boston,Celtics
+Precious,Achiuwa,1630173,Toronto,Raptors
+Malachi,Flynn,1630201,Toronto,Raptors
+Payton,Pritchard,1630202,Boston,Celtics
+Justin,Champagnie,1630551,Boston,Celtics
+Scottie,Barnes,1630567,Toronto,Raptors
+Sam,Hauser,1630573,Boston,Celtics
+Joe,Wieskamp,1630580,Toronto,Raptors
+Dalano,Banton,1630625,Toronto,Raptors
+JD,Davison,1631120,Boston,Celtics
+Christian,Koloko,1631132,Toronto,Raptors
+Ron,Harper Jr.,1631199,Toronto,Raptors
+Patty,Mills,201988,Brooklyn,Nets
+Michael,Carter-Williams,203487,Orlando,Magic
+Seth,Curry,203552,Brooklyn,Nets
+Gary,Harris,203914,Orlando,Magic
+Spencer,Dinwiddie,203915,Brooklyn,Nets
+Joe,Harris,203925,Brooklyn,Nets
+Royce,O'Neale,1626220,Brooklyn,Nets
+Dorian,Finney-Smith,1627827,Brooklyn,Nets
+Markelle,Fultz,1628365,Orlando,Magic
+Edmond,Sumner,1628410,Brooklyn,Nets
+Mikal,Bridges,1628969,Brooklyn,Nets
+Goga,Bitadze,1629048,Orlando,Magic
+Yuta,Watanabe,1629139,Brooklyn,Nets
+Bol,Bol,1629626,Orlando,Magic
+Chuma,Okeke,1629643,Orlando,Magic
+Nic,Claxton,1629651,Brooklyn,Nets
+Cameron,Johnson,1629661,Brooklyn,Nets
+Admiral,Schofield,1629678,Orlando,Magic
+Cole,Anthony,1630175,Orlando,Magic
+Kevon,Harris,1630284,Orlando,Magic
+Franz,Wagner,1630532,Orlando,Magic
+Day'Ron,Sharpe,1630549,Brooklyn,Nets
+Cam,Thomas,1630560,Brooklyn,Nets
+David,Duke Jr.,1630561,Brooklyn,Nets
+Jalen,Suggs,1630591,Orlando,Magic
+Dru,Smith,1630696,Brooklyn,Nets
+Caleb,Houstan,1631216,Orlando,Magic
+D.J.,Augustin,201571,Houston,Rockets
+Kelly,Oubre Jr.,1626162,Charlotte,Hornets
+Frank,Kaminsky,1626163,Houston,Rockets
+Boban,Marjanovic,1626246,Houston,Rockets
+Kobi,Simmons,1628424,Charlotte,Hornets
+Cody,Martin,1628998,Charlotte,Hornets
+Svi,Mykhailiuk,1629004,Charlotte,Hornets
+Kevin,Porter Jr.,1629645,Houston,Rockets
+Theo,Maledon,1630177,Charlotte,Hornets
+Nick,Richards,1630208,Charlotte,Hornets
+Jalen,Green,1630224,Houston,Rockets
+Daishen,Nix,1630227,Houston,Rockets
+Kenyon,Martin Jr.,1630231,Houston,Rockets
+Xavier,Sneed,1630270,Charlotte,Hornets
+Josh,Christopher,1630528,Houston,Rockets
+Kai,Jones,1630539,Charlotte,Hornets
+James,Bouknight,1630547,Charlotte,Hornets
+JT,Thor,1630550,Charlotte,Hornets
+Alperen,Sengun,1630578,Houston,Rockets
+Usman,Garuba,1630586,Houston,Rockets
+Jabari,Smith Jr.,1631095,Houston,Rockets
+Tari,Eason,1631106,Houston,Rockets
+Mark,Williams,1631109,Charlotte,Hornets
+Bryce,McGowens,1631121,Charlotte,Hornets
+George,Hill,201588,Indiana,Pacers
+James,Johnson,201949,Indiana,Pacers
+Cory,Joseph,202709,Detroit,Pistons
+Rodney,McGruder,203585,Detroit,Pistons
+Buddy,Hield,1627741,Indiana,Pacers
+Gabe,York,1628221,Indiana,Pacers
+Daniel,Theis,1628464,Indiana,Pacers
+Marvin,Bagley III,1628963,Detroit,Pistons
+Oshae,Brissett,1629052,Indiana,Pacers
+Andrew,Nembhard,1629614,Indiana,Pacers
+Jordan,Nwora,1629670,Indiana,Pacers
+James,Wiseman,1630164,Detroit,Pistons
+Killian,Hayes,1630165,Detroit,Pistons
+Aaron,Nesmith,1630174,Indiana,Pacers
+R.J.,Hampton,1630181,Detroit,Pistons
+Isaiah,Jackson,1630543,Indiana,Pacers
+Isaiah,Livers,1630587,Detroit,Pistons
+Eugene,Omoruyi,1630647,Detroit,Pistons
+Jaden,Ivey,1631093,Detroit,Pistons
+Bennedict,Mathurin,1631097,Indiana,Pacers
+Jalen,Duren,1631105,Detroit,Pistons
+Jared,Rhoden,1631197,Detroit,Pistons
+Buddy,Boeheim,1631205,Detroit,Pistons
+Udonis,Haslem,2617,Miami,Heat
+Taj,Gibson,201959,Washington,Wizards
+Cody,Zeller,203469,Miami,Heat
+Victor,Oladipo,203506,Miami,Heat
+Delon,Wright,1626153,Washington,Wizards
+Caleb,Martin,1628997,Miami,Heat
+Duncan,Robinson,1629130,Miami,Heat
+Kendrick,Nunn,1629134,Washington,Wizards
+Gabe,Vincent,1629216,Miami,Heat
+Haywood,Highsmith,1629312,Miami,Heat
+Max,Strus,1629622,Miami,Heat
+Daniel,Gafford,1629655,Washington,Wizards
+Omer,Yurtseven,1630209,Miami,Heat
+Isaiah,Todd,1630225,Washington,Wizards
+Anthony,Gill,1630264,Washington,Wizards
+Corey,Kispert,1630557,Washington,Wizards
+Jay,Huff,1630643,Washington,Wizards
+Jordan,Goodwin,1630692,Washington,Wizards
+Johnny,Davis,1631098,Washington,Wizards
+Orlando,Robinson,1631115,Miami,Heat
+Quenton,Jackson,1631245,Washington,Wizards
+Jamal,Cain,1631288,Miami,Heat
+Xavier,Cooks,1641645,Washington,Wizards
+Chris,Paul,101108,Phoenix,Suns
+Kevin,Durant,201142,Phoenix,Suns
+Devin,Booker,1626164,Phoenix,Suns
+Bruce,Brown,1628971,Denver,Nuggets
+Deandre,Ayton,1629028,Phoenix,Suns
+Kelly,Olynyk,203482,Utah,Jazz
+Dario,Saric,203967,Oklahoma City,Thunder
+Shai,Gilgeous-Alexander,1628983,Oklahoma City,Thunder
+Luguentz,Dort,1629652,Oklahoma City,Thunder
+Isaiah,Joe,1630198,Oklahoma City,Thunder
+Jared,Butler,1630215,Oklahoma City,Thunder
+Lindy,Waters III,1630322,Oklahoma City,Thunder
+Jeremiah,Robinson-Earl,1630526,Oklahoma City,Thunder
+Tre,Mann,1630544,Oklahoma City,Thunder
+Josh,Giddey,1630581,Oklahoma City,Thunder
+Aaron,Wiggins,1630598,Oklahoma City,Thunder
+Olivier,Sarr,1630846,Oklahoma City,Thunder
+Jalen,Williams,1631114,Oklahoma City,Thunder
+Jaylin,Williams,1631119,Oklahoma City,Thunder
+Ousmane,Dieng,1631172,Oklahoma City,Thunder
+Devin,Vassell,1630170,San Antonio,Spurs
+Kyle,Lowry,200768,Miami,Heat
+P.J.,Tucker,200782,Philadelphia,76ers
+Kevin,Love,201567,Miami,Heat
+James,Harden,201935,Philadelphia,76ers
+Tobias,Harris,202699,Philadelphia,76ers
+Jimmy,Butler,202710,Miami,Heat
+Joel,Embiid,203954,Philadelphia,76ers
+Bam,Adebayo,1628389,Miami,Heat
+De'Anthony,Melton,1629001,Philadelphia,76ers
+Tyler,Herro,1629639,Miami,Heat
+Robin,Lopez,201577,Cleveland,Cavaliers
+Ricky,Rubio,201937,Cleveland,Cavaliers
+Danny,Green,201980,Cleveland,Cavaliers
+Raul,Neto,203526,Cleveland,Cavaliers
+Cedi,Osman,1626224,Cleveland,Cavaliers
+Caris,LeVert,1627747,Cleveland,Cavaliers
+Moritz,Wagner,1629021,Orlando,Magic
+Mamadi,Diakite,1629603,Cleveland,Cavaliers
+Dean,Wade,1629731,Cleveland,Cavaliers
+Lamar,Stevens,1630205,Cleveland,Cavaliers
+Jay,Scrubb,1630206,Orlando,Magic
+Sam,Merrill,1630241,Cleveland,Cavaliers
+Isaiah,Mobley,1630600,Cleveland,Cavaliers
+Kyrie,Irving,202681,Dallas,Mavericks
+Tim,Hardaway Jr.,203501,Dallas,Mavericks
+Christian,Wood,1626174,Dallas,Mavericks
+Domantas,Sabonis,1627734,Sacramento,Kings
+De'Aaron,Fox,1628368,Sacramento,Kings
+Maxi,Kleber,1628467,Dallas,Mavericks
+Kevin,Huerter,1628989,Sacramento,Kings
+Josh,Green,1630182,Dallas,Mavericks
+Santi,Aldama,1630583,Memphis,Grizzlies
+E.J.,Liddell,1630604,New Orleans,Pelicans
+Dereon,Seabron,1631220,New Orleans,Pelicans
+Jake,LaRavia,1631222,Memphis,Grizzlies
+Trent,Forrest,1630235,Atlanta,Hawks
+Donovan,Williams,1631495,Atlanta,Hawks
+Jaylen,Brown,1627759,Boston,Celtics
+Malcolm,Brogdon,1627763,Boston,Celtics
+Brook,Lopez,201572,Milwaukee,Bucks
+DeMar,DeRozan,201942,Chicago,Bulls
+Jrue,Holiday,201950,Milwaukee,Bucks
+Patrick,Beverley,201976,Chicago,Bulls
+Khris,Middleton,203114,Milwaukee,Bucks
+Zach,LaVine,203897,Chicago,Bulls
+Moses,Brown,1629650,Brooklyn,Nets
+T.J.,McConnell,204456,Indiana,Pacers
+Jalen,Smith,1630188,Indiana,Pacers
+Ty,Jerome,1629660,Golden State,Warriors
+T.J.,Warren,203933,Phoenix,Suns
+Devonte',Graham,1628984,San Antonio,Spurs
+Cole,Swider,1631306,Los Angeles,Lakers
+Marcus,Smart,203935,Boston,Celtics
+Tyrese,Maxey,1630178,Philadelphia,76ers
+Jeff,Dowtin Jr.,1630288,Toronto,Raptors
+Donovan,Mitchell,1628378,Cleveland,Cavaliers
+Jarrett,Allen,1628386,Cleveland,Cavaliers
+Wendell,Carter Jr.,1628976,Orlando,Magic
+Darius,Garland,1629636,Cleveland,Cavaliers
+Evan,Mobley,1630596,Cleveland,Cavaliers
+Paolo,Banchero,1631094,Orlando,Magic
+Giannis,Antetokounmpo,203507,Milwaukee,Bucks
+Pat,Connaughton,1626192,Milwaukee,Bucks
+Grayson,Allen,1628960,Milwaukee,Bucks
+Aleksej,Pokusevski,1630197,Oklahoma City,Thunder
+Jalen,Brunson,1628973,New York,Knicks
+DaQuan,Jeffries,1629610,New York,Knicks
+Deni,Avdija,1630166,Washington,Wizards
+Lauri,Markkanen,1628374,Utah,Jazz
+Walker,Kessler,1631117,Utah,Jazz
+Matisse,Thybulle,1629680,Portland,Trail Blazers
+Nassir,Little,1629642,Portland,Trail Blazers
+P.J.,Washington,1629023,Charlotte,Hornets
+Kristaps,Porzingis,204001,Washington,Wizards
+Monte,Morris,1628420,Washington,Wizards
+Jaylen,Nowell,1629669,Minnesota,Timberwolves
+Naz,Reid,1629675,Minnesota,Timberwolves
+Matthew,Dellavedova,203521,Sacramento,Kings
+Ryan,Arcidiacono,1627853,Portland,Trail Blazers
+Keon,Johnson,1630553,Portland,Trail Blazers
+Ziaire,Williams,1630533,Memphis,Grizzlies
+Julius,Randle,203944,New York,Knicks
+Dennis,Smith Jr.,1628372,Charlotte,Hornets
+Isaac,Okoro,1630171,Cleveland,Cavaliers
+Austin,Rivers,203085,Minnesota,Timberwolves
+Jarrell,Brantley,1629714,Utah,Jazz
+Dylan,Windler,1629685,Cleveland,Cavaliers
+Gordon,Hayward,202330,Charlotte,Hornets
+Marcus,Morris Sr.,202694,Los Angeles,Clippers
+Tyrese,Haliburton,1630169,Indiana,Pacers
+Chris,Duarte,1630537,Indiana,Pacers
+Terry,Rozier,1626179,Charlotte,Hornets
+Jae'Sean,Tate,1630256,Houston,Rockets
+Hamidou,Diallo,1628977,Detroit,Pistons
+Myles,Turner,1626167,Indiana,Pacers
+Rudy,Gay,200752,Utah,Jazz
+Damian,Lillard,203081,Portland,Trail Blazers
+Jusuf,Nurkic,203994,Portland,Trail Blazers
+Jeremy,Sochan,1631110,San Antonio,Spurs
+Nikola,Jovic,1631107,Miami,Heat
+Ryan,Rollins,1631157,Golden State,Warriors
+Paul,George,202331,Los Angeles,Clippers
+Bradley,Beal,203078,Washington,Wizards
+TyTy,Washington Jr.,1631102,Houston,Rockets
+Anfernee,Simons,1629014,Portland,Trail Blazers
+Kyle,Kuzma,1628398,Washington,Wizards
+Nerlens,Noel,203457,Brooklyn,Nets
+Charles,Bassey,1629646,San Antonio,Spurs
+Andre,Iguodala,2738,Golden State,Warriors
+Jerami,Grant,203924,Portland,Trail Blazers
+Jamaree,Bouyea,1631123,Washington,Wizards
+Isaiah,Stewart,1630191,Detroit,Pistons
+Willie,Cauley-Stein,1626161,Houston,Rockets
+Alec,Burks,202692,Detroit,Pistons
+Jordan,Clarkson,203903,Utah,Jazz
+Brandon,Clarke,1629634,Memphis,Grizzlies
+Frank,Jackson,1628402,Utah,Jazz
+Bojan,Bogdanovic,202711,Detroit,Pistons
+Kenrich,Williams,1629026,Oklahoma City,Thunder
+Jose,Alvarado,1630631,New Orleans,Pelicans
+LaMelo,Ball,1630163,Charlotte,Hornets
+Darius,Days,1630620,Houston,Rockets
+Trevor,Hudgins,1631309,Houston,Rockets
+Eugene,Omoruyi,1630647,Oklahoma City,Thunder
+Juancho,Hernangomez,1627823,Toronto,Raptors
+Vernon,Carey Jr.,1630176,Washington,Wizards
+Jonathan,Isaac,1628371,Orlando,Magic
+Moses,Brown,1629650,Los Angeles,Clippers
+Tony,Bradley,1628396,Chicago,Bulls
+Sandro,Mamukelashvili,1630572,Milwaukee,Bucks
+Malcolm,Hill,1630792,Chicago,Bulls
+Leandro,Bolmaro,1630195,Utah,Jazz
+Kevin,Love,201567,Cleveland,Cavaliers
+Stanley,Umude,1630649,Detroit,Pistons
+Ben,Simmons,1627732,Brooklyn,Nets
+Jamaree,Bouyea,1631123,Miami,Heat
+Andrew,Wiggins,203952,Golden State,Warriors
+Chris,Silva,1629735,Dallas,Mavericks
+Goran,Dragic,201609,Chicago,Bulls
+Isaiah,Roby,1629676,San Antonio,Spurs
+Stanley,Johnson,1626169,San Antonio,Spurs
+Justin,Holiday,203200,Houston,Rockets
+Scotty,Pippen Jr.,1630590,Los Angeles,Lakers
+Terrence,Ross,203082,Orlando,Magic
+Mo,Bamba,1628964,Orlando,Magic
+R.J.,Hampton,1630181,Orlando,Magic
+Reggie,Jackson,202704,Los Angeles,Clippers
+Luke,Kennard,1628379,Los Angeles,Clippers
+Gary,Payton II,1627780,Portland,Trail Blazers
+Josh,Hart,1628404,Portland,Trail Blazers
+James,Wiseman,1630164,Golden State,Warriors
+Greg,Brown III,1630535,Portland,Trail Blazers
+Bryn,Forbes,1627854,Minnesota,Timberwolves
+Eric,Gordon,201569,Houston,Rockets
+Bruno,Fernando,1628981,Houston,Rockets
+Justin,Jackson,1628382,Boston,Celtics
+Matisse,Thybulle,1629680,Philadelphia,76ers
+Goga,Bitadze,1629048,Indiana,Pacers
+Terry,Taylor,1630678,Indiana,Pacers
+Khem,Birch,203920,Toronto,Raptors
+Josh,Richardson,1626196,San Antonio,Spurs
+Jakob,Poeltl,1627751,San Antonio,Spurs
+Nerlens,Noel,203457,Detroit,Pistons
+Kevin,Knox II,1628995,Detroit,Pistons
+Saddiq,Bey,1630180,Detroit,Pistons
+Will,Barton,203115,Washington,Wizards
+Mason,Plumlee,203486,Charlotte,Hornets
+Jalen,McDaniels,1629667,Charlotte,Hornets
+Russell,Westbrook,201566,Los Angeles,Lakers
+Patrick,Beverley,201976,Los Angeles,Lakers
+Mike,Muscala,203488,Oklahoma City,Thunder
+Damian,Jones,1627745,Los Angeles,Lakers
+Thomas,Bryant,1628418,Los Angeles,Lakers
+Juan,Toscano-Anderson,1629308,Los Angeles,Lakers
+Darius,Bazley,1629647,Oklahoma City,Thunder
+D'Angelo,Russell,1626156,Minnesota,Timberwolves
+Davon,Reed,1628432,Denver,Nuggets
+Bones,Hyland,1630538,Denver,Nuggets
+Danny,Green,201980,Memphis,Grizzlies
+T.J.,Warren,203933,Brooklyn,Nets
+Dario,Saric,203967,Phoenix,Suns
+Mikal,Bridges,1628969,Phoenix,Suns
+Cameron,Johnson,1629661,Phoenix,Suns
+Justin,Holiday,203200,Atlanta,Hawks
+Frank,Kaminsky,1626163,Atlanta,Hawks
+Devonte',Graham,1628984,New Orleans,Pelicans
+Ryan,Arcidiacono,1627853,New York,Knicks
+Svi,Mykhailiuk,1629004,New York,Knicks
+Cam,Reddish,1629629,New York,Knicks
+George,Hill,201588,Milwaukee,Bucks
+Jordan,Nwora,1629670,Milwaukee,Bucks
+Mike,Conley,201144,Utah,Jazz
+Malik,Beasley,1627736,Utah,Jazz
+Nickeil,Alexander-Walker,1629638,Utah,Jazz
+Deonte,Burton,1629126,Sacramento,Kings
+Kessler,Edwards,1630556,Brooklyn,Nets
+Spencer,Dinwiddie,203915,Dallas,Mavericks
+Dorian,Finney-Smith,1627827,Dallas,Mavericks
+Dewayne,Dedmon,203473,Miami,Heat
+Garrison,Mathews,1629726,Houston,Rockets
+Markieff,Morris,202693,Brooklyn,Nets
+Jarred,Vanderbilt,1629020,Utah,Jazz
+KZ,Okpala,1629644,Sacramento,Kings
+Kyrie,Irving,202681,Brooklyn,Nets
+Duane,Washington Jr.,1630613,Phoenix,Suns
+Trevelin,Queen,1630243,Indiana,Pacers
+Kendrick,Nunn,1629134,Los Angeles,Lakers
+Steven,Adams,203500,Memphis,Grizzlies
+Rui,Hachimura,1629060,Washington,Wizards
+Derrick,Favors,202324,Atlanta,Hawks
+Sterling,Brown,1628425,Los Angeles,Lakers
+John,Wall,202322,Los Angeles,Clippers
+Devon,Dotson,1629653,Washington,Wizards
+Kevin,Durant,201142,Brooklyn,Nets
+Serge,Ibaka,201586,Milwaukee,Bucks
+Kemba,Walker,202689,Dallas,Mavericks
+Ibou,Badji,1630641,Portland,Trail Blazers
+Noah,Vonleh,203943,Boston,Celtics
+Zion,Williamson,1629627,New Orleans,Pelicans
+Justise,Winslow,1626159,Portland,Trail Blazers
+Justin,Champagnie,1630551,Toronto,Raptors
+Jarrett,Culver,1629633,Atlanta,Hawks
+Chima,Moneke,1631320,Sacramento,Kings
+Tyler,Dorsey,1628416,Dallas,Mavericks
+Alize,Johnson,1628993,San Antonio,Spurs
+Alondes,Williams,1631214,Brooklyn,Nets
+Dru,Smith,1630696,Miami,Heat
+Kendall,Brown,1631112,Indiana,Pacers
+Saben,Lee,1630240,Philadelphia,76ers
+A.J.,Lawson,1630639,Minnesota,Timberwolves
+Matt,Ryan,1630346,Los Angeles,Lakers
+Julian,Champagnie,1630577,Philadelphia,76ers
+Facundo,Campazzo,1630267,Dallas,Mavericks
+Braxton,Key,1630296,Detroit,Pistons
+Jordan,Hall,1631160,San Antonio,Spurs
+Kostas,Antetokounmpo,1628961,Chicago,Bulls
+Michael,Foster Jr.,1630701,Philadelphia,76ers
+Otto,Porter Jr.,203490,Toronto,Raptors
+Jordan,Schakel,1630648,Washington,Wizards
+Cade,Cunningham,1630595,Detroit,Pistons
+Joshua,Primo,1630563,San Antonio,Spurs
+Feron,Hunt,1630624,New York,Knicks
